@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.06da4693.css",
+    "main.js": "/test/static/js/main.5e8ef375.js",
+    "static/js/200.ba7b389f.chunk.js": "/test/static/js/200.ba7b389f.chunk.js",
+    "static/js/539.db9da2df.chunk.js": "/test/static/js/539.db9da2df.chunk.js",
+    "static/js/787.d3befce1.chunk.js": "/test/static/js/787.d3befce1.chunk.js",
+    "static/media/IndiaPostLogo.jpg": "/test/static/media/IndiaPostLogo.af561d998a1f61586765.jpg",
+    "static/media/book2.jpg": "/test/static/media/book2.fb9b4efd9765e6733234.jpg",
+    "static/media/book1.jpg": "/test/static/media/book1.72c60a4162efd802efba.jpg",
+    "index.html": "/test/index.html",
+    "main.06da4693.css.map": "/test/static/css/main.06da4693.css.map",
+    "main.5e8ef375.js.map": "/test/static/js/main.5e8ef375.js.map",
+    "200.ba7b389f.chunk.js.map": "/test/static/js/200.ba7b389f.chunk.js.map",
+    "539.db9da2df.chunk.js.map": "/test/static/js/539.db9da2df.chunk.js.map",
+    "787.d3befce1.chunk.js.map": "/test/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06da4693.css",
+    "static/js/main.5e8ef375.js"
+  ]
+}
